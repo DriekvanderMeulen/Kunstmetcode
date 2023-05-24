@@ -11,5 +11,8 @@
     "url": "kunstmetcode"
   },
   "author": "Driek22",
-  "license": "wtfpl"
+  "license": "wtfpl",
+  "dependencies": {
+    "sass": "^1.62.1"
+  }
 }
