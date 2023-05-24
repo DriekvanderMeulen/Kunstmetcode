@@ -1,0 +1,15 @@
+{
+  "name": "kunstmetcode",
+  "version": "1.0.0",
+  "description": "kunst met code dev website",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "kunstmetcode"
+  },
+  "author": "Driek22",
+  "license": "ISC"
+}
